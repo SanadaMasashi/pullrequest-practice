@@ -5,7 +5,7 @@ year = gets.to_i #gets(標準入力)
 if 
   puts "#年にオリンピックはまだありません"
 elsif 
-  
+  puts
 elsif 
   puts "#年は夏季オリンピックが開催されました"
 else
